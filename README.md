@@ -1,4 +1,4 @@
-# farm-schemes: All the government schemes for the farmers and startup are discussed here.
+# Farm-Schemes: All the government schemes for the farmers and startup are discussed here.
 
 1. Technological Measures:
 
